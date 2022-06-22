@@ -467,6 +467,26 @@
     [
       "6ce7b4be-5e5b-4f61-8de7-7e3eab9ae6af",
       "5v_power"
+    ],
+    [
+      "1d64fb24-a192-4276-96bc-30811b5dbebf",
+      "Start Button"
+    ],
+    [
+      "11d3e685-7cd8-45d7-b177-6fa1a10d4678",
+      "Power Button"
+    ],
+    [
+      "671c2313-55b9-421e-8566-6223307add66",
+      "GPIO"
+    ],
+    [
+      "555eccfb-d0d5-4787-bd72-a89db32be54a",
+      "Motors2"
+    ],
+    [
+      "613dedca-68f5-46fa-b415-557ec91ee925",
+      "Motors1"
     ]
   ],
   "text_variables": {}

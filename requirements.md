@@ -23,4 +23,4 @@ The RoboCon Paddock is to act as a test harness to validate the robocon kit.
 
 2.Constraints
 	1. The test harness should be always on and connected to the internet for CI
-	2. The test harness should be powered from a 12V 3A supply.
+	2. The test harness should be powered from a >=12V 3A supply.
